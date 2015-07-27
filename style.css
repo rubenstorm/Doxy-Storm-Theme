@@ -1,0 +1,40 @@
+﻿/**
+    Styles 
+    Ruben Storm 
+    2015-07-17
+*/
+
+div.page-header {
+    padding-top: 2px;
+    padding-bottom: 8px;
+}
+
+h1, h2 {
+    padding-top: 4px;
+    padding-bottom: 2px;
+    color: burlywood;
+    font-variant: small-caps;
+}
+
+h3 {
+    color: crimson;
+    font-variant: small-caps;
+}
+
+h4 {
+    font-variant: small-caps;
+}
+
+.h1 {
+    color: blue;
+    font-variant: small-caps;
+    font-weight: 800;
+}
+
+/**
+    Responsive Ads
+*/
+
+iframe {
+    max-width: 100%;
+}
