@@ -11,6 +11,7 @@ If you like this Theme, please think about a little Donation
 
 # Demo
 * [Homepage](http://apidocs.ruben-storm.eu/)
+* [Projekt Seite - German](http://ruben-storm.de/portfolio/doxy-storm-theme/)
 
 # Setup
 Choose a Folder you put all files. Then must choose the following files in your doxygen app
